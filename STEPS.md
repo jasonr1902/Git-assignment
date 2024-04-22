@@ -13,3 +13,6 @@ Step 12, adding back "Obama prism.jpeg" and removing "Obama prism2.jpeg" (commit
 Step 13, add note to STEPS.md in main (commit 10)
 Step 14, merge bug-fix-experimental to bug-fix (commit 11)
 Step 15, update STEPS.md in bug-fix (commit 12)
+Step 16, merge bug-fix into main (commit 13)
+Step 17, update STEPS.md (commit 14)
+Step 18, turn in link to Becnel and beg for a good grade (please)
