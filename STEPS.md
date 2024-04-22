@@ -7,4 +7,5 @@ Step 6, update STEPS.md and add "Obama prism.jpeg" (commit 4)
 Step 7, add branch bug-fix-experimental
 Step eight, merge the thing
 Step 9 commit 6
-Step 10, update STEPS.md in bug-fix-experimental and add "Obama prism2.jpeg"
+Step 10, update STEPS.md in bug-fix-experimental and add "Obama prism2.jpeg" (commit 7)
+Step 11, I've determined that there are too many Obama Prisms. Removing "Obama prism.jpeg" (commit 8)
